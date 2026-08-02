@@ -85,3 +85,19 @@ high income earners(100k-150k) pose little or no risk of default.
 
 ### Recommendations:
 
+* Repeat defaulters are your clearest red flag. 80% of customers who've defaulted before are defaulting again — treat past default as an automatic trigger for manual review, not an automated approval.
+  
+* Stop lending as freely to the <50k income band. They're driving a 41% default rate. Either shrink loan sizes for this group, ask for more documentation, or price the risk into the rate.
+  
+* Double down on the 75k-100k income group. Only 3% default risk, and they're pulling their weight on value. This is your safest, most profitable segment — prioritize them in marketing and offers.
+
+* Fast-track approvals for 100k-150k earners. Almost no default risk here — lighter, quicker underwriting makes sense and will improve their experience.
+
+* Protect the Personal loan product. It's earned $12.4M in interest — by far your biggest revenue driver. Don't let broader risk tightening accidentally choke this off.
+
+* Credit scores under 60 are losing you money. A 61% default rate for scores under 50, and 23% for scores 50-60, means most of these loans don't pay off. Stop approving standard loans for this group, or offer a smaller, safer product instead (like a secured or small-dollar loan).
+
+* Watch for customers who hit more than one red flag. Someone with a past default, low income and a low credit score is your highest-risk customer — these three things compound.
+
+### Code Exploration:
+![code screen](https://github.com/olugithob/Analyzing-Loan-Default-Risk-ans-Customer-Value-Across-a-Synthetic-11k-Customer-Fintech-Dataset/blob/main/postgre.sql)
