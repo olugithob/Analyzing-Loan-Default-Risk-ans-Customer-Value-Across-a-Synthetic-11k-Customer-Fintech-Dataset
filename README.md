@@ -53,7 +53,7 @@ Data Visualization: Built a one page dashboard to properly communicate in clear 
 ## Analysis Findings:
 
 ### Client Reporting
-![Client Report](https://github.com/olugithob/Analyzing-Loan-Default-Risk-ans-Customer-Value-Across-a-Synthetic-11k-Customer-Fintech-Dataset/blob/main/Client%20Dashboard.png)
+![Client Report](https://github.com/olugithob/Analyzing-Loan-Default-Risk-and-Customer-Value-Across-a-Synthetic-11k-Customer-Fintech-Dataset/blob/main/Client%20dashboard.png)
 
 
 ### Key Insights:
